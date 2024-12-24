@@ -1,0 +1,21 @@
+.imgCarrito{
+
+    position: fixed; 
+    top: 20px;
+    left: 20px; 
+    background-color: #D33B3B; 
+    color: #fff; 
+    padding: 10px; 
+    font-size: 12px; 
+    width: 80px; 
+    height: 80px;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); 
+    z-index: 1000; 
+    cursor: pointer; 
+
+
+    
+}
